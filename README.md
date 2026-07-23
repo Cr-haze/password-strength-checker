@@ -4,7 +4,7 @@ A real-time password strength checker built with vanilla **HTML, CSS, and JavaSc
 
 **[Live Demo →](https://Cr-haze.github.io/password-strength-checker/)**  <!-- update this link after enabling GitHub Pages -->
 
-![Password Strength Checker preview](preview.png) <!-- optional: add a screenshot here -->
+![Password Strength Checker preview](preview.jpeg) <!-- optional: add a screenshot here -->
 
 ## Features
 
