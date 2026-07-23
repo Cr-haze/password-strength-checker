@@ -35,7 +35,7 @@ A real-time password strength checker built with vanilla **HTML, CSS, and JavaSc
 Clone the repo and open `index.html` in your browser — that's it, no build step required.
 
 ```bash
-git clone https://github.com/yourusername/password-strength-checker.git
+git clone https://github.com/Cr-haze/password-strength-checker.git
 cd password-strength-checker
 open index.html   # or just double-click the file
 ```
